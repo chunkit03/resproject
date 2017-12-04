@@ -1,0 +1,21 @@
+{
+    "name": "resproject123",
+    "description": "MVC ODM App",
+    "author": "Ngan Chun Kit <s1159954@ouhk.edu.hk>",
+    "version": "0.0.1",
+    "dependencies": {
+        	"mongoose": "*",
+		    "express" : "*",
+		    "ejs" : "*",
+		    "cookie-session": "*",
+            "body-parser": "*",
+            "formidable": "latest",
+            "mongodb": "latest",
+            "multer":"*",
+            "path":"*"
+    },
+    "engine": "node >= 0.10.0",
+    "scripts": {"start": "node server"}
+
+}
+
